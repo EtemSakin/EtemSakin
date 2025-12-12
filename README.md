@@ -1,3 +1,3 @@
-Hi, I'm Etem 👋
+<h2>Hi, I'm Etem 👋 <br>
+  🎓 <strong>Web Development Student @ Developer Akademie</strong></h2>
 
-🎓 **Web Development Student @ Developer Akademie**
